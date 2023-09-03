@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mateluszg
-- 👀 I’m interested in full-stack development, compilators, interpreters
+- 👀 I’m interested in full-stack development, compilators, interpreters, game programming
 - 🌱 I’m currently learning Fullstack development
 
 <!---
